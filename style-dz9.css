@@ -149,6 +149,67 @@
     color: rgba(182, 182, 182, 1);
 }
 
+.footer {
+    border-top: #B6B6B6 solid 1px;
+    padding-top: 5px;
+    align-items: center;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.footer-info-1 {
+    align-items: flex-start;
+}
+
+.info-block-1 {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    color: #B6B6B6;
+}
+
+.item-logo-footer-1 {
+    width: auto;
+    font-family: 'Montserrat';
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 200;
+    color: #95E1D3;
+    margin: 5px;
+}
+
+.footer-info-2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.input-email {
+    border: 1px solid grey;
+    font-style: italic;
+    line-height: 21px;
+    width: 250px;
+    height: 26px;
+}
+
+.submit-email-button {
+    border: 1px solid grey;
+    background-color: #95E1D3;
+    width: 100px;
+    height: 30px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-style: normal;
+    color:  rgba(255, 255, 255, 1)    ;
+}
+
+
+
+
+
 
 
 
